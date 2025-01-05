@@ -1,0 +1,21 @@
+.odd-number{
+    background-color: #f89393;
+    font-family: Verdana, "DejaVu Sans", sans-serif; /*do not need " " around Verdana */
+}
+
+#number-two{
+    color: hsl(236, 100%, 47%);
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#number-four{
+    background-color: rgb(130, 245, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Could have added class "cooler" to id "number-four". This would have cut down duplicate code by assigning the font size to that div as well*/
